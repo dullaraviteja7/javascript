@@ -1,3 +1,3 @@
 # devops
 
-- get a ubuntu vm from clound and isntall below
+- get a ubuntu vm and run steps in setup vm file
